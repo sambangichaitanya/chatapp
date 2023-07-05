@@ -1,0 +1,33 @@
+.ActualMessage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height:100px;
+}
+
+
+.app_form{
+    padding:20px;
+    text-align:center;
+    position:fixed;
+    bottom:0;
+    z-index:1;
+    background-color: #e9e9eb;
+    width:100%;
+    margin:20px;
+  }
+  
+  
+  .app_formcontrol{
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  
+  .appicon_btn{
+    flex:0;
+  }
+  
+  .app_input{
+    flex:1;
+  }

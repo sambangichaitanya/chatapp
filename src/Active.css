@@ -1,0 +1,8 @@
+.gy1{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(161, 153, 161);
+    color:black;
+}

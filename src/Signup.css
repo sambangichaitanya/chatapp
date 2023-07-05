@@ -1,0 +1,50 @@
+
+.vip1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 200px;
+    margin-top: -100px;
+    width: 400px;
+    margin-left: -200px ;
+    padding: 0%;
+}
+
+.ip{
+    width:360px !important;
+}
+
+.frm{
+    width:250px !important;
+    margin: 10px !important;
+    padding: 1% !important;
+}
+
+.img3{
+    border:10px solid black;
+    border-radius:20px;
+    margin-top:40px;
+}
+
+
+.Signup{
+    background-color: rgb(227, 59, 118);
+    height:200px;
+}
+
+.btns1{
+    width: 250px !important;
+}
+
+
+.trend1{
+    display: flex;
+    justify-content: center;
+    z-index:-1;
+}
+p{
+    font-size: 13px !important;
+}
+.lnk1{
+    padding: 2% !important;
+}
