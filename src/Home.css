@@ -1,0 +1,30 @@
+.Home{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 200px;
+    margin-top: -100px;
+    width: 400px;
+    margin-left: -200px ;
+    padding: 0%;
+}
+.home{
+    background-color: rgb(227, 59, 118);
+    height:200px;
+}
+Button{
+    width:240px !important;
+}
+.btn{
+    margin: 10px !important;
+}
+
+.img{
+    border:10px solid black;
+    border-radius:20px;
+    margin-top:40px;
+}
+
+h3{
+    text-decoration: none !important;
+}
